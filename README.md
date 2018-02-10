@@ -4,3 +4,6 @@
 
 * Don't run the exe files :P
 
+* Some problems may not be correctly solved.
+
+
